@@ -1,6 +1,5 @@
 streamlit==0.74.1
 requests==2.23.0
-tf_nightly==2.3.0.dev20200512
 seaborn==0.9.0
 matplotlib==3.2.1
 numpy==1.17.3
